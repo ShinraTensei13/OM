@@ -1,0 +1,4 @@
+<Directory /include/>
+    Order Allow,Deny
+    Deny from all
+</Directory>
